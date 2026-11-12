@@ -7,10 +7,10 @@ const bufferReplace = require('buffer-replace');
 const crypto = require('crypto');
 const Jimp = require('jimp');
 
-const listenPort = 25565;
+const listenPort = 24406;
 const mcHost = "localhost";
-const mcPort = 25569;
-const serverName = "ayunMultiPort Server";
+const mcPort = 24406;
+const serverName = "WithSavelyiVadimowic.aternos.me";
 const serverMotd = ["line1", "line2"];
 const serverMaxPlayers = 20;
 const serverOnlinePlayers = 4;
